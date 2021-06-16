@@ -1,4 +1,4 @@
-# Sperm_transmission_mosaicism
+# Sperm transmission mosaicism
 
 This repository collects pipelines, codes, and some intermediate results for the study of mosaic SNV/Indels for sperm, blood, and saliva samples of a small cohort. Raw data of this study is available on SRA under []().
 
