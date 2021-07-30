@@ -1,8 +1,8 @@
 # Sperm transmission mosaicism
 
-This repository collects pipelines, codes, and some intermediate results for the study of mosaic SNV/Indels for sperm, blood, and saliva samples of a small cohort. Raw WGS data of this study is available on SRA under []().
+This repository collects pipeline, code, and some intermediate results for the study of mosaic SNV/Indels for sperm, blood, and saliva samples of a small cohort. Raw WGS data of this study is available on SRA under []().
 
-The pipelines and analysis are derived from our recent large-scale [sperm study](https://www.biorxiv.org/content/10.1101/2020.10.14.339796v1.full), of which the codes could be found [here](https://github.com/shishenyxx/Sperm_control_cohort_mosaicism).
+The pipelines and analysis are derived from our recent large-scale [sperm study](https://www.biorxiv.org/content/10.1101/2020.10.14.339796v1.full), of which the code could be found [here](https://github.com/shishenyxx/Sperm_control_cohort_mosaicism).
 
 -----------------------------------
 
@@ -12,11 +12,11 @@ The pipelines and analysis are derived from our recent large-scale [sperm study]
 
 [Pipelines](https://github.com/shishenyxx/Sperm_control_cohort_mosaicism/tree/master/Pipelines/Preprocessing) for pre-processing of the bams.
 
-Codes for [depth of coverage](https://github.com/shishenyxx/Sperm_control_cohort_mosaicism/blob/master/Plot/QC/Depth_of_coverage.r) and [insertsize distribution](https://github.com/shishenyxx/Sperm_control_cohort_mosaicism/blob/master/Plot/QC/Insert_size.r).
+Code for [depth of coverage](https://github.com/shishenyxx/Sperm_control_cohort_mosaicism/blob/master/Plot/QC/Depth_of_coverage.r) and [insertsize distribution](https://github.com/shishenyxx/Sperm_control_cohort_mosaicism/blob/master/Plot/QC/Insert_size.r).
 
-#### 1.2 Codes for the population origin analysis
+#### 1.2 Code for the population origin analysis
 
-[Pipeline](https://github.com/shishenyxx/Sperm_control_cohort_mosaicism/blob/master/Plot/Population_analysis/Whole_genome_variant_extraction_and_PCA.sh) for population analysis, and [codes](https://github.com/shishenyxx/Sperm_control_cohort_mosaicism/blob/master/Plot/Population_analysis/Plot_PCA.r) for plot.
+[Pipeline](https://github.com/shishenyxx/Sperm_control_cohort_mosaicism/blob/master/Plot/Population_analysis/Whole_genome_variant_extraction_and_PCA.sh) for population analysis, and [code](https://github.com/shishenyxx/Sperm_control_cohort_mosaicism/blob/master/Plot/Population_analysis/Plot_PCA.r) for plot.
 
 #### 1.3 Pipelines for mosaic SNV/indel calling and variant annotations
 
@@ -34,7 +34,7 @@ Codes for [depth of coverage](https://github.com/shishenyxx/Sperm_control_cohort
 
 [Pipelines](https://github.com/shishenyxx/PASM/tree/master/Snakemake_pipeline) for AF quantification and variant anntations.
 
-[Codes](https://github.com/shishenyxx/Sperm_transmission_mosaicism/blob/main/Analysis/transmission_ampliseq_analysis_plotting.py) to filter and annotate on MPAS data.
+[Code](https://github.com/shishenyxx/Sperm_transmission_mosaicism/blob/main/Analysis/transmission_ampliseq_analysis_plotting.py) to filter and annotate on MPAS data.
 
 -----------------------------------
 
@@ -45,6 +45,6 @@ After variant calling from different strategies, variants were annotated and fil
 
 #### 3.2 Pipelines for statistically analysis, and the related plotting
 
-[Codes](https://github.com/shishenyxx/Sperm_transmission_mosaicism/blob/main/Plots/transmission_ampliseq_analysis_plotting.py) for the estimation of expected transmissions assuming independent transmission via a dynamaic programming algorithm.
+[Code](https://github.com/shishenyxx/Sperm_transmission_mosaicism/blob/main/Plots/transmission_ampliseq_analysis_plotting.py) for the estimation of expected transmissions assuming independent transmission via a dynamaic programming algorithm.
 
 
