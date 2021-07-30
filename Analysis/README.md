@@ -1,2 +1,3 @@
 # Codes for Data Analysis
-1. Codes and data for the simulation of number of transmitted variants
+1. Code and data for the simulation of number of transmitted variants
+2. Script for analysis and plotting (duplicated in both sections)
