@@ -1,6 +1,8 @@
 # Sperm transmission mosaicism
 
-This repository collects pipelines, codes, and some intermediate results for the study of mosaic SNV/Indels for sperm, blood, and saliva samples of a small cohort. Raw data of this study is available on SRA under []().
+This repository collects pipelines, codes, and some intermediate results for the study of mosaic SNV/Indels for sperm, blood, and saliva samples of a small cohort. Raw WGS data of this study is available on SRA under []().
+
+The pipelines and analysis are derived from our recent large-scale [sperm study](https://www.biorxiv.org/content/10.1101/2020.10.14.339796v1.full), of which the codes could be found [here](https://github.com/shishenyxx/Sperm_control_cohort_mosaicism).
 
 -----------------------------------
 
@@ -32,17 +34,17 @@ Codes for [depth of coverage](https://github.com/shishenyxx/Sperm_control_cohort
 
 [Pipelines](https://github.com/shishenyxx/PASM/tree/master/Snakemake_pipeline) for AF quantification and variant anntations.
 
-[Codes]() to filter and annotate on MPAS data.
+[Codes](https://github.com/shishenyxx/Sperm_transmission_mosaicism/blob/main/Analysis/transmission_ampliseq_analysis_plotting.py) to filter and annotate on MPAS data.
 
 -----------------------------------
 
 ### 3. Pipelines for the data analysis, variant filtering, comprehensive annotations, and statistical analysis
 #### 3.1 Pipelines for mosaic variant determination, annotations, and plotting
 
-After variant calling from different strategies, variants were annotated and filtered by [a python script]() and positive mosaic variants as well as the corresponding transmission to multiple samples and additional information were annotated.
+After variant calling from different strategies, variants were annotated and filtered by [a python script](https://github.com/shishenyxx/Sperm_transmission_mosaicism/blob/main/Analysis/transmission_ampliseq_analysis_plotting.py) and positive mosaic variants as well as the corresponding transmission to multiple samples and additional information were annotated.
 
 #### 3.2 Pipelines for statistically analysis, and the related plotting
 
-[Codes]() for the estimation of expected transmissions assuming independent transmission via a dynamaic programming algorithm.
+[Codes](https://github.com/shishenyxx/Sperm_transmission_mosaicism/blob/main/Plots/transmission_ampliseq_analysis_plotting.py) for the estimation of expected transmissions assuming independent transmission via a dynamaic programming algorithm.
 
 
