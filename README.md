@@ -1,6 +1,6 @@
 # Sperm transmission mosaicism
 
-This repository collects pipeline, code, and some intermediate results for the study of mosaic SNV/Indels for sperm, blood, and saliva samples of a small cohort. Raw WGS data of this study is available on SRA under []().
+This repository collects pipeline, code, and some intermediate results for the study of mosaic SNV/Indels for sperm, blood, and saliva samples of a small cohort. Raw WGS data of this study is available on SRA under [PRJNAXXXXXX](https://www.ncbi.nlm.nih.gov/bioproject/PRJNAXXXXXX/).
 
 The pipelines and analysis are derived from our recent large-scale [sperm study](https://www.biorxiv.org/content/10.1101/2020.10.14.339796v1.full), of which the code could be found [here](https://github.com/shishenyxx/Sperm_control_cohort_mosaicism).
 
