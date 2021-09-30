@@ -49,4 +49,14 @@ After variant calling from different strategies, variants were annotated and fil
 
 [Code](https://github.com/shishenyxx/Sperm_transmission_mosaicism/blob/main/Analysis/Simulation/Plot.r) and [example data](https://github.com/shishenyxx/Sperm_transmission_mosaicism/tree/main/Analysis/Simulation) for the permutation analysis to estimate the indepence of transmission in each family.
 
+-----------------------------------
 
+### 4. Contact:
+
+:email: Prof. Joseph Gleeson: [jogleeson@health.ucsd.edu](mailto:jogleeson@health.ucsd.edu), or the Gleeson lab [contact@gleesonlab.org](mailto:contact@gleesonlab.org)
+
+[Prof. Joseph Gleeson's lab at the University of California San Diego and Rady Children's Institute for Genomic Medicine](http://www.gleesonlab.org/index.html)
+
+:email: Asst. Prof. Martin Breuss: [martin.breuss@cuanschutz.edu](mailto:martin.breuss@cuanschutz.edu)
+
+:email: Dr. Xiaoxu Yang: [xiy010@health.ucsd.edu](mailto:xiy010@health.ucsd.edu), [yangxiaoxu-shishen@hotmail.com](mailto:yangxiaoxu-shishen@hotmail.com)
