@@ -49,6 +49,8 @@ After variant calling from different strategies, variants were annotated and fil
 
 [Code](https://github.com/shishenyxx/Sperm_transmission_mosaicism/blob/main/Analysis/Simulation/Plot.r) and [example data](https://github.com/shishenyxx/Sperm_transmission_mosaicism/tree/main/Analysis/Simulation) for the permutation analysis to estimate the indepence of transmission in each family.
 
+[Code](https://github.com/shishenyxx/Sperm_transmission_mosaicism/blob/main/Plots/transmission_WGS_ASD_trios.py) and [data](https://github.com/shishenyxx/Sperm_transmission_mosaicism/blob/main/Analysis/Genotyping_ASD_trios.csv) for the re-analysis of transmission in 8 ASD families previously analyzed in the [first](https://www.nature.com/articles/s41591-019-0711-0) and [second](https://doi.org/10.1016/j.cell.2021.07.024) study.
+
 -----------------------------------
 
 ### 4. Contact:
