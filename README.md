@@ -1,6 +1,6 @@
 # Sperm transmission mosaicism
 
-This repository collects pipeline, code, and some intermediate results for the study of mosaic SNV/Indels for sperm, blood, and saliva samples of a small cohort. Raw WGS data of this study is available on SRA under [PRJNA753973](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA753973/). Genotyping result of each sample is provided [here](https://github.com/shishenyxx/Sperm_transmission_mosaicism/blob/main/Analysis/Genotyping_in_different_samples.csv). 
+This repository collects pipeline, code, and some intermediate results for the study of mosaic SNV/Indels for sperm, blood, and saliva samples of a small cohort. Raw WGS data of this study is available on SRA under [PRJNA753973](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA753973/). Genotyping results of each sample is provided [here](https://github.com/shishenyxx/Sperm_transmission_mosaicism/blob/main/Analysis/Genotyping_in_different_samples.csv). Re-analysis of the transmission of paternal mosaic variants from the ASD trios is provided [here](https://github.com/shishenyxx/Sperm_transmission_mosaicism/blob/main/Analysis/Genotyping_ASD_trios.csv).
 
 The pipelines and analysis are derived from our recent [large-scale sperm study](https://www.sciencedirect.com/science/article/pii/S0092867421008837), of which the code could be found [here](https://github.com/shishenyxx/Sperm_control_cohort_mosaicism).
 
