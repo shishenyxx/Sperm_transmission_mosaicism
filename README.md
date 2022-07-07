@@ -62,3 +62,9 @@ After variant calling from different strategies, variants were annotated and fil
 :email: Prof. Joseph Gleeson: [jogleeson@health.ucsd.edu](mailto:jogleeson@health.ucsd.edu), or the Gleeson lab [contact@gleesonlab.org](mailto:contact@gleesonlab.org)
 
 [Prof. Joseph Gleeson's lab at the University of California San Diego and Rady Children's Institute for Genomic Medicine](http://www.gleesonlab.org/index.html)
+
+
+-----------------------------------
+
+### 5. Cite the code
+Breuss MW, Yang X, <i>et al.</i>, Gleeson JG. [Sperm screening might detect harmful mutations before embryo implantation.](https://elifesciences.org/for-the-press/8ce8f9dd/sperm-screening-might-detect-harmful-mutations-before-embryo-implantation) 2022. (<i>eLife</i>, DOI:[10.7554/eLife.78459](https://doi.org/10.7554/elife.78459), PMID:[35787314](https://pubmed.ncbi.nlm.nih.gov/35787314/))
