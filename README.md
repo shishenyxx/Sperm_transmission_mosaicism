@@ -67,4 +67,4 @@ After variant calling from different strategies, variants were annotated and fil
 -----------------------------------
 
 ### 5. Cite the code
-Breuss MW, Yang X, <i>et al.</i>, Gleeson JG. [Sperm screening might detect harmful mutations before embryo implantation.](https://elifesciences.org/for-the-press/8ce8f9dd/sperm-screening-might-detect-harmful-mutations-before-embryo-implantation) 2022. (<i>eLife</i>, DOI:[10.7554/eLife.78459](https://doi.org/10.7554/elife.78459), PMID:[35787314](https://pubmed.ncbi.nlm.nih.gov/35787314/))
+Breuss MW, Yang X, <i>et al.</i>, Gleeson JG. [Unbiased mosaic variant assessment in sperm: a cohort study to test predictability of transmission.](https://elifesciences.org/articles/78459) 2022. (<i>eLife</i>, DOI:[10.7554/eLife.78459](https://doi.org/10.7554/elife.78459), PMID:[35787314](https://pubmed.ncbi.nlm.nih.gov/35787314/))
